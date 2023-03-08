@@ -112,7 +112,7 @@ const animationTimeline = () => {
       {
         visibility: "visible"
       },
-      0.05
+      0.1
     )
     .to(".fake-btn", 0.1, {
       backgroundColor: "rgb(127, 206, 248)"
@@ -206,7 +206,7 @@ const animationTimeline = () => {
         opacity: 1,
         y: -1000
       },
-      0.2
+      0.5
     )
     .from(
       ".lydia-dp",

@@ -58,7 +58,7 @@ body {
 }
 
 .four .text-box {
-  width: 600px;
+  width: 650px;
   margin: 0 auto;
   border: 3px solid #aaa;
   border-radius: 5px;
@@ -118,7 +118,7 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 100%;
+  max-width: 55%;
   height: auto;
 }
 
@@ -136,11 +136,11 @@ body {
 }
 
 .baloons img:nth-child(even) {
-  left: -10%;
+  left: -1%;
 }
 
 .baloons img:nth-child(odd) {
-  right: -10%;
+  right: -1%;
 }
 
 .baloons img:nth-child(3n + 0) {
@@ -235,25 +235,25 @@ body {
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 40%;
+    left: 20%;
   }
 }
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 37%;
+    left: 17%;
   }
 }
 
 @media screen and (max-height: 700px) {
   .six .hat {
-    left: 32%;
+    left: 12%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 32%;
+    left: 12%;
   }
 }
 
