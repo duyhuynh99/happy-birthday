@@ -1,11 +1,11 @@
 {
   "greeting": "Hi",
   "name": "Anh Thy",
-  "greetingText": "This is my little gift for you today",
+  "greetingText": "This is my little gift for you today <3",
   "wishText": "Hope happiness will come to you <3",
   "imagePath": "img/Thy.jpeg",
   "text1": "Today is Women's Day!!! :D",
-  "textInChatBox": "Chúc em 8/3 vui vẻ nhá!! Yeee! Thật nhiều niềm vui và hạnh phúc blah...",
+  "textInChatBox": "Chúc em 8/3 vui vẻ nhá!!! Thật nhiều niềm vui và hạnh phúc blah... blah...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
@@ -16,7 +16,7 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": " 8/3  Vui  vẻ!",
+  "wishHeading": " 8/3  VUI VẺ",
   "outroText": "I hope you enjoy this little gift.",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
